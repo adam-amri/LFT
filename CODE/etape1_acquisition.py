@@ -1,5 +1,5 @@
 """
-Étape 1 – Acquisition & nettoyage des données de marché. fazdaz
+Étape 1 – Acquisition & nettoyage des données de marché. 
 
 Pour chaque période définie dans config.PERIODS :
   - Téléchargement via yfinance (log-rendements)
