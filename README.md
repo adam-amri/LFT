@@ -1,4 +1,4 @@
-# LFT - LeFort - Portfolio Management   fazadaz
+# LFT - LeFort - Portfolio Management   faraday dazdzadazzdza
 
 LFT is a Windows desktop application for portfolio analysis, risk diagnostics, 
 optimization, projection and walk-forward backtesting. It is an educational
